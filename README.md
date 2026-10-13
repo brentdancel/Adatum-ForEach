@@ -14,3 +14,7 @@ Results:
 # Challenge 3
 Results:  
     Service Statuses can differ between two students depending on the activities of the students  
+
+# Challenge 4
+Results:  
+    If you reset the counter within the loop, you have an infinite loop with no terminating condition
