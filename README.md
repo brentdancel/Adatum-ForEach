@@ -21,4 +21,9 @@ Results:
 
 # Challenge 5
 Results:  
-    This is a live operating system query
+    This is a live operating system query  
+
+# Challenge 6
+Results:
+    A stopped service is not always at fault because its termination could be triggered by  
+    external software or configurations
