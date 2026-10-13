@@ -27,3 +27,8 @@ Results:
 Results:
     A stopped service is not always at fault because its termination could be triggered by  
     external software or configurations
+
+# Challenge 7  
+Results:  
+    If a user account in AD has "Enabled," this means that the user account is ready for use and active.  
+    What it does not tell you about sign in is that it is not guaranteed that the user can successfully sign in
