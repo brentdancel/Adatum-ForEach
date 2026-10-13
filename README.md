@@ -18,3 +18,7 @@ Results:
 # Challenge 4
 Results:  
     If you reset the counter within the loop, you have an infinite loop with no terminating condition
+
+# Challenge 5
+Results:  
+    This is a live operating system query
